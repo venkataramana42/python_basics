@@ -14,3 +14,14 @@ pop(): Removes and returns the element at the specified position (or the last el
 remove(): Removes the first occurrence of a specified element.
 reverse(): Reverses the order of the elements in the list.
 sort(): Sorts the list in ascending order (by default).
+Examples of List Methods:
+1. Append() :
+  Syntax : list_name.append(element)
+2. copy() :
+  Syntax : list_name.copy()
+3. clear() :
+  Syntax : list_name.clear()
+4. count():
+  Syntax :list_name.count(element)
+
+   
